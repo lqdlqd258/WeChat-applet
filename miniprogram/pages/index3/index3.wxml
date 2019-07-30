@@ -1,0 +1,8 @@
+<!--pages/index3/index3.wxml-->
+<!-- <view wx:for='{{arr}}' wx:key="{{key}}" wx:for-item="items" wx:for-index="key">
+{{key}}:{{items}}
+</view>
+<block wx:for='{{arr}}' wx:key="{{key}}" wx:for-item="items" wx:for-index="key">
+{{key}}:{{items}}
+</block> -->
+<view class="box"></view>
