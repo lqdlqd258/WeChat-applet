@@ -1,3 +1,6 @@
 {
-  "navigationBarTitleText": "index4"
+  "navigationBarTitleText": "index4",
+  "usingComponents": {
+    "navHeader":"../../components/navHeader/navHeader"
+  }
 }

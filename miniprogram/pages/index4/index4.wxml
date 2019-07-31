@@ -1,2 +1,4 @@
-<view class="box">
-</view>
+<!-- <view class="box">
+</view> -->
+<!-- <image src="../../icons/log.png" style="width:100%;" mode="widthFix"></image> -->
+<navHeader>这是插槽</navHeader>

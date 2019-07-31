@@ -1,0 +1,6 @@
+<view class="nav_header">
+{{cDate}}
+<view>
+  <slot></slot>
+</view>
+</view>

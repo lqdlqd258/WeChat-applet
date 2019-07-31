@@ -1,1 +1,2 @@
+/* wxss文件注释，只能用多行注释 ctrl+/*/
 @import "../../style/common.wxss"
